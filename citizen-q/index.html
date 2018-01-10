@@ -11901,7 +11901,19 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Hello">Hello<a class="anchor-link" href="#Hello">&#182;</a></h1><p>This is an example for an interactive tutorial. This example lives in a Jupyter notebook, where code can be executed. The next page can be viewed by pressing space. For the best experience put your browser in full-screen mode (press F11)</p>
+<h1 id="Hello-there-....">Hello there ....<a class="anchor-link" href="#Hello-there-....">&#182;</a></h1><p><img style="float: right;" src="https://quantumoptics.at/images/qsim/iqoqi_trap.jpg"/></p>
+<p>This is a placeholder tutorial for the Citizen-Q project. To navigate to the tutorial, press space, to enhance the viewing experience, put your browser in fullscreen mode (press F11)</p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="How-this-works....">How this works....<a class="anchor-link" href="#How-this-works....">&#182;</a></h1><p>This can be a fully interactive experience, where the participants can interact with the simulator using the python programming language. If you cannot edit the code in the cell below, you can klick the badge to  start the interactive  version.</p>
+<p><a href="https://mybinder.org/v2/gh/pschindler/q_tutorial/master?filepath=from_bits_to_qubits.ipynb"><img src="https://mybinder.org/badge.svg" alt="Binder"></a></p>
+<p>If you want to see a static version, press space</p>
 
 </div>
 </div>
@@ -11944,7 +11956,9 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Classical-information">Classical information<a class="anchor-link" href="#Classical-information">&#182;</a></h2><p>In existing computers, the smallest unit of information is the <em>bit</em>, that can be in one of two states, often denoted as $|0\rangle$ and $|1\rangle$. In the following, we will use the representation of information on a sphere. Classical information is represente as points on the northpole and southpole.</p>
+<h2 id="Classical-information">Classical information<a class="anchor-link" href="#Classical-information">&#182;</a></h2><p>In existing computers, the smallest unit of information is the <em>bit</em>, that can be in one of two states, often denoted as $|0\rangle$
+and $|1\rangle$
+. In the following, we will use the representation of information on a sphere. Classical information is represente as points on the northpole and southpole.</p>
 
 </div>
 </div>
@@ -11990,7 +12004,9 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="From-bits-to-qubits">From bits to qubits<a class="anchor-link" href="#From-bits-to-qubits">&#182;</a></h2><p>In quantum information processing, the smallest unit of information is the <em>qubit</em> that is, similarly to the classical case, embedded in a two-level system. Since the qubit is a quantum object it can also be in a <em>quantum superposition</em> of the two states. The most general state $|\Psi \rangle$ of the qubit can be written as:</p>
+<h2 id="From-bits-to-qubits">From bits to qubits<a class="anchor-link" href="#From-bits-to-qubits">&#182;</a></h2><p>In quantum information processing, the smallest unit of information is the <em>qubit</em> that is, similarly to the classical case, embedded in a two-level system. Since the qubit is a quantum object it can also be in a <em>quantum superposition</em> of the two states. The most general state 
+$|\Psi \rangle$
+of the qubit can be written as:</p>
 <p>$\Psi = \alpha |0\rangle + \beta |1\rangle$</p>
 <p>Due to the interpretation of the quantum state as a probability amplitude, the complex coefficients $\alpha$ and $\beta$ need to be normalized: $\alpha^2 + \beta^2 = 1$.</p>
 
@@ -12036,7 +12052,8 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The sphere above corresponds to the state  $|\Psi_1\rangle  = 1/ \sqrt{2} \, (|0 \rangle + |1\rangle$ 
+<p>The sphere above corresponds to the state 
+$|\Psi_1\rangle  = 1/ \sqrt{2} \, (|0 \rangle + |1\rangle$ 
 which is known as a superposition state that has no classical analogon.</p>
 
 </div>
@@ -12135,7 +12152,7 @@ For example, we will rotate the ground state by 45° around the x-axis, which we
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Your-first-assignment">Your first assignment<a class="anchor-link" href="#Your-first-assignment">&#182;</a></h2><p>It's time for your first task. Using the formalism introduced above, generate an equal superposition between the two states $|0\rangle$ and $|1\rangle$. 
+<p>It's time for your first task. Using the formalism introduced above, generate an equal superposition between the two states $|0\rangle$ and $|1\rangle$. 
 Type your code in the line below. Press shift-enter after editing to show your results.</p>
 
 </div>
@@ -12150,10 +12167,8 @@ Type your code in the line below. Press shift-enter after editing to show your r
 <span class="kn">from</span> <span class="nn">citizen_q</span> <span class="k">import</span> <span class="o">*</span>
 <span class="c1"># Let&#39;s get the ground state</span>
 <span class="n">psi</span> <span class="o">=</span> <span class="n">ground_state</span><span class="p">()</span>
-
 <span class="c1"># Edit the next line to generate an equal superposition (hint: use rx() * psi)</span>
 <span class="n">psi90</span> <span class="o">=</span> <span class="n">rx</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span> <span class="o">*</span> <span class="n">psi</span>
-
 <span class="c1">#Let&#39;s see what state we have generated:</span>
 <span class="n">show_sphere</span><span class="p">(</span><span class="n">psi90</span><span class="p">)</span>
 </pre></div>
