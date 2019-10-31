@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Philipp Schindler</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Philipp Schindler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Philipp Schindler</copyright>
+    <lastBuildDate>Fri, 27 Oct 2017 17:29:17 +0200</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am a researcher working on experimental quantum information processing with trapped ions in the group of Rainer Blatt at the University of Innsbruck. We are working towards realizing a quantum computer with single atoms. Our experiments usually consist of implementing algorithms in a small-scale prototype as well as finding scalable architectures for quantum information processing with trapped ions.
+Besides physics I enjoy being outdoors, see a few sample photos</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description>The full list of publications is available at google scholar. Here are some highlighted and recent publications:</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/photos/</link>
+      <pubDate>Fri, 27 Oct 2017 17:29:17 +0200</pubDate>
+      
+      <guid>/home/photos/</guid>
+      <description>Here are some photos from my outdoor activities:   Alpbachtal2
+      Brenner
+      Dolomiten
+      Dolomiten2
+      Kalkkoegel
+      Kalkkoegel2
+      Kalkkoegel3
+      Kalkkoegel4
+      Mieminger
+      Mieminger2</description>
+    </item>
+    
+  </channel>
+</rss>

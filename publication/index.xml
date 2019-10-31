@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Philipp Schindler</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Philipp Schindler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Philipp Schindler</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ultrafast infrared spectroscopy with single molecular ions</title>
+      <link>/publication/ultrafast/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ultrafast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering vibrationally-assisted energy transfer in a trapped-ion quantum simulator</title>
+      <link>/publication/engineering/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the progress of trapped-ion processors towards fault-tolerant quantum computation </title>
+      <link>/publication/feasibility/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/feasibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental quantification of spatial correlations in quantum dynamics</title>
+      <link>/publication/quantum_correlation/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/quantum_correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micromotion-enabled improvement of quantum logic gates with trapped ions</title>
+      <link>/publication/micromotion/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/micromotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
+      <link>/publication/wilson_theory/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wilson_theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local probe of single phonon dynamics in warm ion crystals</title>
+      <link>/publication/local/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryogenic setup for trapped ion quantum computing</title>
+      <link>/publication/cryogenic/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cryogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/wilson/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryogenic resonator design for trapped ion experiments in Paul traps</title>
+      <link>/publication/resonator/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/resonator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiling quantum algorithms for architectures with multi-qubit gates</title>
+      <link>/publication/compiler/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/shor/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
