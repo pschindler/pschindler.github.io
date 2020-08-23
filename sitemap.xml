@@ -498,17 +498,17 @@
   </url>
   
   <url>
+    <loc>/project/automatiq/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/beyondc/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/lintrap/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/lintrap/</loc>
+    <loc>/project/logiq/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -519,11 +519,6 @@
   
   <url>
     <loc>/project/piedmons/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/sqip/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
