@@ -1,263 +1,587 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/molecule_njp/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/engineering/</loc>
-      <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/feasibility/</loc>
-      <lastmod>2017-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/coherent_rotations/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/quantum_correlation/</loc>
-      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/esteban-a.-martinez/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/micromotion/</loc>
-      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/lukas-gerster/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/martin-w.-van-mourik/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/pavel-hrmo/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/philipp-schindler/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/wilson_theory/</loc>
-      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/local/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/cryogenic/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/wilson/</loc>
-      <lastmod>2016-05-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/rainer-blatt/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/aqtion/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/thomas-monz/</loc>
+    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/beyondc/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/2019_puerto-natales/</loc>
+    <lastmod>2020-08-10T18:45:01+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/lintrap/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-08-10T18:45:01+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/molecule/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/sip/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/alexander-erhard/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/resonator/</loc>
-      <lastmod>2016-01-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/cycle_benchmarking/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/compiler/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/esteban-adrian-martinez/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/shor/</loc>
-      <lastmod>2015-07-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/joel-james-wallman/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/joseph-emerson/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/lukas-postler/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/lintrap/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/michael-meth/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/molecules/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/roman-stricker/</loc>
+    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-07-29T21:46:59+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/qcosmo/</loc>
+    <lastmod>2020-07-29T21:46:59+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/p.-schindler/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/molecule_njp/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/boerge-hemmerling/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dylan-j-gorman/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eli-megidish/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/engineering/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hartmut-haeffner/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mohan-sarovar/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/soenke-a.-moeller/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f.-schmidt-kaler/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-blatt/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t.-monz/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-bermudez/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/feasibility/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-hempel/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-home/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-ogorman/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-biercuk/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-muller/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-nigmatullin/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-benjamin/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/u.-g.-poschinger/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v.-negnevitsky/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/x.-xu/</loc>
+    <lastmod>2017-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-nigg/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/markus-muller/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alejandro-bermudez/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angel-rivas/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/quantum_correlation/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/micromotion/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/berit-vogell/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/esteban-martinez/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcello-dalmonte/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/markus-heyl/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-zoller/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philipp-hauke/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christine-muschik/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wilson_theory/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h.-haffner/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-abdelrahman/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-buchleitner/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-gorman/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h.-p.-breuer/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/local/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-gessner/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-ramm/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/o.-khosravani/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-masuda/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t.-pruttivarasin/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-nolf/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-warschburger/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h.-kaufmann/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/k.-lakhmanskiy/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l.-postler/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.w.-van-mourik/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/n.-daniilidis/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.r.-paiva/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-moller/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t.-ruster/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/u.g.-poschinger/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/v.-kaushal/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cryogenic/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.f.-brandl/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-erhard/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-a.-muschik/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-nigg/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e.-a.-martinez/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-dalmonte/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-heyl/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-hauke/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-zoller/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wilson/</loc>
+    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/aqtion/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/beyondc/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lintrap/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lintrap/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/molecules/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/piedmons/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sqip/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/resonator/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthias-f.-brandl/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/compiler/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i.-l.-chuang/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-f.-brandl/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-rines/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/shor/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-x.-wang/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/philipp-schindler/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
   
 </urlset>

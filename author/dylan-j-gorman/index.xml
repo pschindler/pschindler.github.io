@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan J Gorman | Philipp Schindler</title>
+    <link>/author/dylan-j-gorman/</link>
+      <atom:link href="/author/dylan-j-gorman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan J Gorman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>Dylan J Gorman</title>
+      <link>/author/dylan-j-gorman/</link>
+    </image>
+    
+    <item>
+      <title>Engineering vibrationally-assisted energy transfer in a trapped-ion quantum simulator</title>
+      <link>/publication/engineering/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/engineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

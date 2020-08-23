@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteban A. Martinez | Philipp Schindler</title>
+    <link>/author/esteban-a.-martinez/</link>
+      <atom:link href="/author/esteban-a.-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esteban A. Martinez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 13:33:49 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>Esteban A. Martinez</title>
+      <link>/author/esteban-a.-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Coherent rotations of qubits within a multi-species ion-trap quantum computer</title>
+      <link>/publication/coherent_rotations/</link>
+      <pubDate>Sun, 23 Aug 2020 13:33:49 +0200</pubDate>
+      <guid>/publication/coherent_rotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiling quantum algorithms for architectures with multi-qubit gates</title>
+      <link>/publication/compiler/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/compiler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

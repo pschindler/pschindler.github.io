@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> H. Häffner | Philipp Schindler</title>
+    <link>/author/h.-haffner/</link>
+      <atom:link href="/author/h.-haffner/index.xml" rel="self" type="application/rss+xml" />
+    <description> H. Häffner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title> H. Häffner</title>
+      <link>/author/h.-haffner/</link>
+    </image>
+    
+    <item>
+      <title>Local probe of single phonon dynamics in warm ion crystals</title>
+      <link>/publication/local/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryogenic setup for trapped ion quantum computing</title>
+      <link>/publication/cryogenic/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cryogenic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

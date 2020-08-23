@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias F. Brandl | Philipp Schindler</title>
+    <link>/author/matthias-f.-brandl/</link>
+      <atom:link href="/author/matthias-f.-brandl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthias F. Brandl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthias F. Brandl</title>
+      <link>/author/matthias-f.-brandl/</link>
+    </image>
+    
+    <item>
+      <title>Cryogenic resonator design for trapped ion experiments in Paul traps</title>
+      <link>/publication/resonator/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/resonator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

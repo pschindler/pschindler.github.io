@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lintrap | Philipp Schindler</title>
+    <link>/tag/lintrap/</link>
+      <atom:link href="/tag/lintrap/index.xml" rel="self" type="application/rss+xml" />
+    <description>lintrap</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>lintrap</title>
+      <link>/tag/lintrap/</link>
+    </image>
+    
+    <item>
+      <title>Linear trap quantum computation</title>
+      <link>/project/lintrap/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/lintrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable quantum information proessing</title>
+      <link>/project/sqip/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/sqip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

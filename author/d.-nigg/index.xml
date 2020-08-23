@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Nigg | Philipp Schindler</title>
+    <link>/author/d.-nigg/</link>
+      <atom:link href="/author/d.-nigg/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Nigg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Nigg</title>
+      <link>/author/d.-nigg/</link>
+    </image>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/wilson/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/shor/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/shor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
