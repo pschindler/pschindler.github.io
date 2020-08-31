@@ -30,7 +30,7 @@ research&lt;/a&gt; at the
 Innsbruck&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Within QCosmo, we aim to explore the physics and harness the
 computational potential of a more complex trapped ion system:
-&lt;strong&gt;polyatomic molecules&lt;/strong&gt;. As a first task, we tackle the long standing
+&lt;strong&gt;polyatomic molecules&lt;/strong&gt;. As a first task, we tackle the long-standing
 challenge of preparing, controlling and characterizing single
 polyatomic molecules at the quantum level using techniques that have
 been developed for quantum computing with atomic ions.&lt;/p&gt;
@@ -43,7 +43,7 @@ order to detect their state. Within this project we will use logic
 methods that have been invented to enable spectroscopy on inaccessible
 atomic ions that cannot be read-out with existing methods. These
 quantum logic methods couple the ion of interest to an atomic ion that
-is suitable for quantum computing and quantum control techniques have
+is suitable for quantum computing and for which quantum control techniques have
 already been developed. Quantum logic powers one of today&amp;rsquo;s most
 precise 
 &lt;a href=&#34;https://www.nist.gov/news-events/news/2019/07/nists-quantum-logic-clock-returns-top-performance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atomic
@@ -73,7 +73,7 @@ timescales&lt;/em&gt; and to &lt;em&gt;complex polyatomic molecules&lt;/em&gt;, 
 window into investigating dynamic processes of molecular ions that
 are not well studied yet.&lt;/p&gt;
 &lt;h3 id=&#34;characterizing-ultrafast-processes&#34;&gt;Characterizing ultrafast processes&lt;/h3&gt;
-&lt;p&gt;Internal processes in molecules occur often at ultrafast picosecond
+&lt;p&gt;Internal processes in molecules often occur at ultrafast picosecond
 and femtosecond timescales, which makes them hard to access by
 standard spectroscopic techniques. To overcome this problem,
 
