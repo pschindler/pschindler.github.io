@@ -3,13 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/markus-muller/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alexander-erhard/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/davide-vodola/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/qubit_loss/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lukas-postler/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-ringbauer/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-meth/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philipp-schindler/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rainer-blatt/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roman-stricker/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-monz/</loc>
+    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
   </url>
   
   <url>
@@ -38,36 +108,6 @@
   </url>
   
   <url>
-    <loc>/author/philipp-schindler/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rainer-blatt/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-monz/</loc>
-    <lastmod>2020-08-23T13:33:49+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/2019_puerto-natales/</loc>
     <lastmod>2020-08-10T18:45:01+02:00</lastmod>
   </url>
@@ -79,11 +119,6 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alexander-erhard/</loc>
     <lastmod>2020-08-03T20:39:18+02:00</lastmod>
   </url>
   
@@ -104,21 +139,6 @@
   
   <url>
     <loc>/author/joseph-emerson/</loc>
-    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lukas-postler/</loc>
-    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-meth/</loc>
-    <lastmod>2020-08-03T20:39:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roman-stricker/</loc>
     <lastmod>2020-08-03T20:39:18+02:00</lastmod>
   </url>
   
@@ -254,11 +274,6 @@
   
   <url>
     <loc>/author/daniel-nigg/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/markus-muller/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   

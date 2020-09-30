@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 13:33:49 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 10:02:35 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Experimental deterministic correction of qubit loss</title>
+      <link>/publication/qubit_loss/</link>
+      <pubDate>Wed, 30 Sep 2020 10:02:35 +0200</pubDate>
+      <guid>/publication/qubit_loss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coherent rotations of qubits within a multi-species ion-trap quantum computer</title>
