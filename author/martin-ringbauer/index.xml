@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Ringbauer | Philipp Schindler</title>
+    <link>/author/martin-ringbauer/</link>
+      <atom:link href="/author/martin-ringbauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Ringbauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 10:02:35 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin Ringbauer</title>
+      <link>/author/martin-ringbauer/</link>
+    </image>
+    
+    <item>
+      <title>Experimental deterministic correction of qubit loss</title>
+      <link>/publication/qubit_loss/</link>
+      <pubDate>Wed, 30 Sep 2020 10:02:35 +0200</pubDate>
+      <guid>/publication/qubit_loss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
