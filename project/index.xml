@@ -5,116 +5,12 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 21:46:59 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
-    
-    <item>
-      <title>QCosmo</title>
-      <link>/project/qcosmo/</link>
-      <pubDate>Wed, 29 Jul 2020 21:46:59 +0200</pubDate>
-      <guid>/project/qcosmo/</guid>
-      <description>&lt;h2 id=&#34;quantum-characterization-and-control-of-single-molecules&#34;&gt;Quantum characterization and control of single molecules&lt;/h2&gt;
-&lt;h3 id=&#34;goal-of-the-project&#34;&gt;Goal of the project&lt;/h3&gt;
-&lt;p&gt;In the last decade, a worldwide effort to build a usable 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Quantum_computing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quantum
-computer&lt;/a&gt; has been
-made. Trapped atomic ions are one of the most promising physical
-quantum computing architectures and have been the focus of 
-&lt;a href=&#34;https://quantumoptics.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our
-research&lt;/a&gt; at the 
-&lt;a href=&#34;https://www.uibk.ac.at&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of
-Innsbruck&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Within the ERC starting grant QCosmo, we aim to explore the physics
-and harness the computational potential of a more complex trapped ion
-system: &lt;strong&gt;polyatomic molecules&lt;/strong&gt;. As a first task, we tackle the
-long-standing challenge of preparing, controlling and characterizing
-single polyatomic molecules at the quantum level using techniques that
-have been developed for quantum computing with atomic ions.&lt;/p&gt;
-&lt;h3 id=&#34;quantum-logic-with-trapped-molecular-ions&#34;&gt;Quantum logic with trapped molecular ions&lt;/h3&gt;
-&lt;p&gt;Performing spectroscopy on molecular ions has a 
-&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119324560.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;long and successful
-history&lt;/a&gt;.
-Unfortunately, the commonly used methods need to destroy the molecules
-in order to detect their state. Within QCosmo we will perform
-non-destructive measurements with quantum logic methods that have been
-invented for atomic clocks with trapped atomic ions. These quantum
-logic methods couple the ion of interest to an atomic ion that is
-suitable for quantum computing and for which quantum control
-techniques have already been developed. These quantum logic techniques
-are at the heart of one of today&amp;rsquo;s most precise 
-&lt;a href=&#34;https://www.nist.gov/news-events/news/2019/07/nists-quantum-logic-clock-returns-top-performance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atomic
-clocks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The core concept of 
-&lt;a href=&#34;https://science.sciencemag.org/content/309/5735/749.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quantum logic
-spectroscopy&lt;/a&gt;
-is based on the coupling of the spectroscopy ion&amp;rsquo;s motion to the logic
-ion&amp;rsquo;s motion via the strong electromagnetic interaction. This coupling
-allows us to transfer the techniques that have been developed for
-quantum computing, onto less accessible species, be it atoms or molecules.  &lt;!-- The --&gt; &lt;!--
-figure below illustrates the three steps of quantum logic spectroscopy
-(taken from --&gt; &lt;!--
-[PTB](https://www.quantummetrology.de/fileadmin/quest/quest_institute/Publications/Quantum_Logic_for_Precision_Spectroscopy.pdf))
---&gt; &lt;!-- ![Quantum logic](qlogic.png) --&gt;&lt;/p&gt;
-&lt;p&gt;Recently, these techniques have been transferred to molecular ions at
-
-&lt;a href=&#34;https://doi.org/10.1038/nature16513&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PTB&lt;/a&gt; in Germany,
-
-&lt;a href=&#34;https://doi.org/10.1038/nature22338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIST&lt;/a&gt; in the USA, and the 
-&lt;a href=&#34;https://science.sciencemag.org/content/367/6483/1213?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of
-Basel&lt;/a&gt;.
-To date, these quantum logic methods have been limited to diatomic
-molecules and to precision spectroscopy at the millisecond
-timescale. We aim to transfer these techniques to &lt;strong&gt;ultrafast
-timescales&lt;/strong&gt; and to &lt;strong&gt;complex polyatomic molecules&lt;/strong&gt;, opening a new
-window into investigating dynamic quantum processes of molecular ions
-that have not being studied yet.&lt;/p&gt;
-&lt;h3 id=&#34;characterizing-ultrafast-processes&#34;&gt;Characterizing ultrafast processes&lt;/h3&gt;
-&lt;p&gt;Internal processes in molecules often occur at ultrafast picosecond
-and femtosecond timescales, which makes them hard to access by
-standard spectroscopic techniques. To overcome this problem,
-
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Ultrafast_laser_spectroscopy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ultrafast &lt;em&gt;time domain&lt;/em&gt;
-spectroscopy&lt;/a&gt;
-has been invented which uses a series of laser pulses
-at the femtosecond timescale to gain information about molecular
-processes.&lt;/p&gt;
-&lt;p&gt;We plan to transfer these spectroscopy methods to molecular ions by
-exploiting the fact that each photon absorption event comes with a
-small momentum kick to molecule. We will adapt an existing 
-&lt;a href=&#34;https://doi.org/10.1038/nphoton.2013.172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;single
-photon absorption detection&lt;/a&gt;
-technique by measuring the momentum of the absorbed photon using the
-co-trapped atomic ion. This technique is independent of the molecular
-species and the transition type and will thus provide a solid basis
-for our experiments.  More details on the proposed methods can be
-found in the publication 
-&lt;a href=&#34;/publication/molecule_njp/&#34;&gt;Ultrafast infrared spectroscopy with single
-molecular ions&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;molecule-powered-quantum-devices&#34;&gt;Molecule powered quantum devices&lt;/h3&gt;
-&lt;p&gt;Complex molecular systems are expected to play an
-important role for emerging 
-&lt;a href=&#34;http://mqt2019.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quantum
-technologies&lt;/a&gt;. In particular, ultrafast quantum
-processes in molecules have been proposed for hosting a small-scale
-
-&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.157901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quantum information
-processor&lt;/a&gt;
-operating over 1000 times faster than current devices. We envision
-that these operations can be the heart of a hybrid molecular-atomic
-quantum information processor, powered by the quantum logic techniques
-that we will develop within QCosmo.&lt;/p&gt;
-&lt;h3 id=&#34;open-positions&#34;&gt;Open positions&lt;/h3&gt;
-&lt;p&gt;We are currently looking for motivated PhD students and PostDocs that
-will join us on this scientific journey. If you are interested in
-coming to Innsbruck, contact
-
-&lt;a href=&#34;mailto:philipp.schindler@uibk.ac.at&#34;&gt;Philipp Schindler&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>AQtion</title>
@@ -153,6 +49,14 @@ coming to Innsbruck, contact
       <link>/project/piedmons/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/piedmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCosmo</title>
+      <link>/project/qcosmo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/qcosmo/</guid>
       <description></description>
     </item>
     
