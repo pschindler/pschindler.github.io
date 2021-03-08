@@ -5,12 +5,28 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 10:02:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 09:07:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
       <link>/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
+      <link>/publication/tweezers/</link>
+      <pubDate>Mon, 08 Mar 2021 09:07:00 +0100</pubDate>
+      <guid>/publication/tweezers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entangling logical qubits with lattice surgery</title>
+      <link>/publication/lattice_surgery/</link>
+      <pubDate>Mon, 08 Mar 2021 08:42:51 +0100</pubDate>
+      <guid>/publication/lattice_surgery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Experimental deterministic correction of qubit loss</title>

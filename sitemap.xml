@@ -3,22 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/markus-muller/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/alexander-erhard/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
+    <loc>/author/and-lukas-m.-sieberer/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lukas-postler/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-zoller/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philipp-schindler/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tweezers/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-monz/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tobias-olsacher/</loc>
+    <lastmod>2021-03-08T09:07:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alexander-erhard/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lattice_surgery/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hans-j.-briegel/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hendrik-poulsen-nautrup/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-ringbauer/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-meth/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicolai-friis/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rainer-blatt/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roman-stricker/</loc>
+    <lastmod>2021-03-08T08:42:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/markus-muller/</loc>
     <lastmod>2020-09-30T10:02:35+02:00</lastmod>
   </url>
   
@@ -29,56 +119,6 @@
   
   <url>
     <loc>/publication/qubit_loss/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lukas-postler/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/martin-ringbauer/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-meth/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/philipp-schindler/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rainer-blatt/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/roman-stricker/</loc>
-    <lastmod>2020-09-30T10:02:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-monz/</loc>
     <lastmod>2020-09-30T10:02:35+02:00</lastmod>
   </url>
   
@@ -304,11 +344,6 @@
   
   <url>
     <loc>/author/markus-heyl/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/peter-zoller/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   

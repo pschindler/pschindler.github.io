@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Zoller | Philipp Schindler</title>
-    <link>/author/peter-zoller/</link>
-      <atom:link href="/author/peter-zoller/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peter Zoller</description>
+    <title>Tobias Olsacher | Philipp Schindler</title>
+    <link>/author/tobias-olsacher/</link>
+      <atom:link href="/author/tobias-olsacher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobias Olsacher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 09:07:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title>Peter Zoller</title>
-      <link>/author/peter-zoller/</link>
+      <title>Tobias Olsacher</title>
+      <link>/author/tobias-olsacher/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/tweezers/</link>
       <pubDate>Mon, 08 Mar 2021 09:07:00 +0100</pubDate>
       <guid>/publication/tweezers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
-      <link>/publication/wilson_theory/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson_theory/</guid>
       <description></description>
     </item>
     
