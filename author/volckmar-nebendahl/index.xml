@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volckmar Nebendahl | Philipp Schindler</title>
+    <link>/author/volckmar-nebendahl/</link>
+      <atom:link href="/author/volckmar-nebendahl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volckmar Nebendahl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Volckmar Nebendahl</title>
+      <link>/author/volckmar-nebendahl/</link>
+    </image>
+    
+    <item>
+      <title>A quantum information processor with trapped ions</title>
+      <link>/publication/rid-0611170133802-12/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Repetitive Quantum Error Correction</title>
+      <link>/publication/rid-0611170133808-22/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental repetitive quantum error correction with trapped ions</title>
+      <link>/publication/rid-0611170133809-25/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

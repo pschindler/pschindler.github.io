@@ -5,18 +5,26 @@
     <link>/author/p.-zoller/</link>
       <atom:link href="/author/p.-zoller/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Zoller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>P. Zoller</title>
       <link>/author/p.-zoller/</link>
     </image>
     
     <item>
-      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
-      <link>/publication/wilson/</link>
-      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson/</guid>
+      <title>Quantum simulation of dynamical maps with trapped ions</title>
+      <link>/publication/rid-0611170133805-14/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133805-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Digital Quantum Simulation with Trapped Ions</title>
+      <link>/publication/rid-0611170133809-21/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-21/</guid>
       <description></description>
     </item>
     

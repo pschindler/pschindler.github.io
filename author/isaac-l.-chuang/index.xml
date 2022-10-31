@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaac L. Chuang | Philipp Schindler</title>
+    <link>/author/isaac-l.-chuang/</link>
+      <atom:link href="/author/isaac-l.-chuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isaac L. Chuang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Isaac L. Chuang</title>
+      <link>/author/isaac-l.-chuang/</link>
+    </image>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/rid-0611170133797-6/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133797-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

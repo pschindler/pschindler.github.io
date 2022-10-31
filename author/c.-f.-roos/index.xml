@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. F. Roos | Philipp Schindler</title>
+    <link>/author/c.-f.-roos/</link>
+      <atom:link href="/author/c.-f.-roos/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. F. Roos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>C. F. Roos</title>
+      <link>/author/c.-f.-roos/</link>
+    </image>
+    
+    <item>
+      <title>Universal Digital Quantum Simulation with Trapped Ions</title>
+      <link>/publication/rid-0611170133809-21/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ca&#43; quantum bits for quantum information processing</title>
+      <link>/publication/rid-0611170133810-27/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133810-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of Universal Ion-Trap Quantum Computation with Decoherence-Free Qubits</title>
+      <link>/publication/rid-0611170133812-28/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133812-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision spectroscopy with two correlated atoms</title>
+      <link>/publication/rid-0611170133813-32/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133813-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process tomography of ion trap quantum gates</title>
+      <link>/publication/rid-0611170133813-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133813-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

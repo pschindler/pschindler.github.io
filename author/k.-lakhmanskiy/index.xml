@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> K. Lakhmanskiy | Philipp Schindler</title>
+    <title>K. Lakhmanskiy | Philipp Schindler</title>
     <link>/author/k.-lakhmanskiy/</link>
       <atom:link href="/author/k.-lakhmanskiy/index.xml" rel="self" type="application/rss+xml" />
-    <description> K. Lakhmanskiy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <description>K. Lakhmanskiy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title> K. Lakhmanskiy</title>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>K. Lakhmanskiy</title>
       <link>/author/k.-lakhmanskiy/</link>
     </image>
     
     <item>
+      <title>Electric-field noise in a high-temperature superconducting surface ion trap</title>
+      <link>/publication/holz-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/holz-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Ion-Trap Quantum Computing Demonstrator</title>
+      <link>/publication/pogorelov-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pogorelov-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cryogenic setup for trapped ion quantum computing</title>
-      <link>/publication/cryogenic/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cryogenic/</guid>
+      <link>/publication/rid-0611170133793-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133793-1/</guid>
       <description></description>
     </item>
     

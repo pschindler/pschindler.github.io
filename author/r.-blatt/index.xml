@@ -1,46 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> R. Blatt | Philipp Schindler</title>
+    <title>R. Blatt | Philipp Schindler</title>
     <link>/author/r.-blatt/</link>
       <atom:link href="/author/r.-blatt/index.xml" rel="self" type="application/rss+xml" />
-    <description> R. Blatt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
+    <description>R. Blatt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title> R. Blatt</title>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>R. Blatt</title>
       <link>/author/r.-blatt/</link>
     </image>
     
     <item>
-      <title>Assessing the progress of trapped-ion processors towards fault-tolerant quantum computation </title>
-      <link>/publication/feasibility/</link>
-      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/feasibility/</guid>
+      <title>Cross-Verification of Independent Quantum Devices</title>
+      <link>/publication/greganti-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/greganti-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric-field noise in a high-temperature superconducting surface ion trap</title>
+      <link>/publication/holz-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/holz-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Ion-Trap Quantum Computing Demonstrator</title>
+      <link>/publication/pogorelov-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pogorelov-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Progress of Trapped-Ion Processors Towards Fault-Tolerant Quantum Computation</title>
+      <link>/publication/rid-091818065431-144/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-091818065431-144/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryogenic resonator design for trapped ion experiments in Paul traps</title>
+      <link>/publication/rid-0611170133792-34/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133792-34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryogenic setup for trapped ion quantum computing</title>
-      <link>/publication/cryogenic/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/cryogenic/</guid>
+      <link>/publication/rid-0611170133793-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133793-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
-      <link>/publication/wilson/</link>
-      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson/</guid>
+      <title>Iterative Phase Optimization of Elementary Quantum Error Correcting Codes</title>
+      <link>/publication/rid-0611170133795-2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133795-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Realization of a scalable Shor algorithm</title>
-      <link>/publication/shor/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/shor/</guid>
+      <title>Quantum computations on a topologically encoded qubit</title>
+      <link>/publication/rid-0611170133800-10/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133800-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom-Atom Entanglement by Single-Photon Detection</title>
+      <link>/publication/rid-0611170133802-16/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum simulation of dynamical maps with trapped ions</title>
+      <link>/publication/rid-0611170133805-14/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133805-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interferometric thermometry of a single sub-Doppler-cooled atom</title>
+      <link>/publication/rid-0611170133806-20/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133806-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable ion-photon entanglement in an optical cavity</title>
+      <link>/publication/rid-0611170133807-19/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133807-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Digital Quantum Simulation with Trapped Ions</title>
+      <link>/publication/rid-0611170133809-21/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ca&#43; quantum bits for quantum information processing</title>
+      <link>/publication/rid-0611170133810-27/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133810-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of the Quantum Toffoli Gate with Trapped Ions</title>
+      <link>/publication/rid-0611170133811-29/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133811-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of Universal Ion-Trap Quantum Computation with Decoherence-Free Qubits</title>
+      <link>/publication/rid-0611170133812-28/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133812-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic entanglement swapping with an ion-trap quantum computer</title>
+      <link>/publication/rid-0611170133812-31/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133812-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision spectroscopy with two correlated atoms</title>
+      <link>/publication/rid-0611170133813-32/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133813-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process tomography of ion trap quantum gates</title>
+      <link>/publication/rid-0611170133813-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133813-33/</guid>
       <description></description>
     </item>
     

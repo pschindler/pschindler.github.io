@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Mueller | Philipp Schindler</title>
+    <link>/author/markus-mueller/</link>
+      <atom:link href="/author/markus-mueller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Mueller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Markus Mueller</title>
+      <link>/author/markus-mueller/</link>
+    </image>
+    
+    <item>
+      <title>Micromotion-enabled improvement of quantum logic gates with trapped ions</title>
+      <link>/publication/10-1088-1367-2630-aa-86-eb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1088-1367-2630-aa-86-eb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An open-system quantum simulator with trapped ions</title>
+      <link>/publication/rid-0611170133808-24/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masoud Mohseni | Philipp Schindler</title>
+    <link>/author/masoud-mohseni/</link>
+      <atom:link href="/author/masoud-mohseni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masoud Mohseni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Masoud Mohseni</title>
+      <link>/author/masoud-mohseni/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Characterization of Quantum Dynamics Through Many-Body Interactions</title>
+      <link>/publication/rid-0611170133804-18/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133804-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

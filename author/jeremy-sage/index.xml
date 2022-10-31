@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Sage | Philipp Schindler</title>
+    <link>/author/jeremy-sage/</link>
+      <atom:link href="/author/jeremy-sage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Sage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Jeremy Sage</title>
+      <link>/author/jeremy-sage/</link>
+    </image>
+    
+    <item>
+      <title>Heating of a Trapped Ion Induced by Dielectric Materials</title>
+      <link>/publication/teller-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/teller-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

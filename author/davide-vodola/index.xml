@@ -5,18 +5,34 @@
     <link>/author/davide-vodola/</link>
       <atom:link href="/author/davide-vodola/index.xml" rel="self" type="application/rss+xml" />
     <description>Davide Vodola</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 10:02:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Davide Vodola</title>
       <link>/author/davide-vodola/</link>
     </image>
     
     <item>
+      <title>Experimental Bayesian Calibration of Trapped-Ion Entangling Operations</title>
+      <link>/publication/gerster-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/gerster-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical and experimental study of center-line miscalibrations in Mølmer-Sørensen gates</title>
+      <link>/publication/mart-nez-garc-a-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/mart-nez-garc-a-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experimental deterministic correction of qubit loss</title>
-      <link>/publication/qubit_loss/</link>
-      <pubDate>Wed, 30 Sep 2020 10:02:35 +0200</pubDate>
-      <guid>/publication/qubit_loss/</guid>
+      <link>/publication/stricker-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/stricker-2020/</guid>
       <description></description>
     </item>
     

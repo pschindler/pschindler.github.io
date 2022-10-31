@@ -5,50 +5,74 @@
     <link>/author/lukas-postler/</link>
       <atom:link href="/author/lukas-postler/index.xml" rel="self" type="application/rss+xml" />
     <description>Lukas Postler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 09:07:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Lukas Postler</title>
       <link>/author/lukas-postler/</link>
     </image>
     
     <item>
-      <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
-      <link>/publication/tweezers/</link>
-      <pubDate>Mon, 08 Mar 2021 09:07:00 +0100</pubDate>
-      <guid>/publication/tweezers/</guid>
+      <title>Experimental Single-Setting Quantum State Tomography</title>
+      <link>/publication/stricker-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/stricker-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A universal qudit quantum processor with trapped ions</title>
+      <link>/publication/ringbauer-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ringbauer-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of fault-tolerant universal quantum gate operations</title>
+      <link>/publication/postler-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entangling logical qubits with lattice surgery</title>
-      <link>/publication/lattice_surgery/</link>
-      <pubDate>Mon, 08 Mar 2021 08:42:51 +0100</pubDate>
-      <guid>/publication/lattice_surgery/</guid>
+      <link>/publication/erhard-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
+      <link>/publication/olsacher-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/olsacher-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental deterministic correction of qubit loss</title>
-      <link>/publication/qubit_loss/</link>
-      <pubDate>Wed, 30 Sep 2020 10:02:35 +0200</pubDate>
-      <guid>/publication/qubit_loss/</guid>
+      <link>/publication/stricker-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/stricker-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing large-scale quantum computers via cycle benchmarking</title>
-      <link>/publication/cycle_benchmarking/</link>
-      <pubDate>Mon, 03 Aug 2020 20:39:18 +0200</pubDate>
-      <guid>/publication/cycle_benchmarking/</guid>
+      <link>/publication/erhard-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental quantification of spatial correlations in quantum dynamics</title>
-      <link>/publication/quantum_correlation/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/quantum_correlation/</guid>
+      <link>/publication/postler-2018-experimental/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2018-experimental/</guid>
       <description></description>
     </item>
     

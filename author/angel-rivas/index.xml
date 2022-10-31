@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angel Rivas | Philipp Schindler</title>
+    <title>Ángel Rivas | Philipp Schindler</title>
     <link>/author/angel-rivas/</link>
       <atom:link href="/author/angel-rivas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Angel Rivas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <description>Ángel Rivas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title>Angel Rivas</title>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Ángel Rivas</title>
       <link>/author/angel-rivas/</link>
     </image>
     
     <item>
+      <title>Relaxation times do not capture logical qubit dynamics</title>
+      <link>/publication/pal-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pal-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experimental quantification of spatial correlations in quantum dynamics</title>
-      <link>/publication/quantum_correlation/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/quantum_correlation/</guid>
+      <link>/publication/postler-2018-experimental/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2018-experimental/</guid>
       <description></description>
     </item>
     

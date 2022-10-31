@@ -1,30 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> Daniel Nigg | Philipp Schindler</title>
+    <title>Daniel Nigg | Philipp Schindler</title>
     <link>/author/daniel-nigg/</link>
       <atom:link href="/author/daniel-nigg/index.xml" rel="self" type="application/rss+xml" />
-    <description> Daniel Nigg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <description>Daniel Nigg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title> Daniel Nigg</title>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel Nigg</title>
       <link>/author/daniel-nigg/</link>
     </image>
     
     <item>
       <title>Experimental quantification of spatial correlations in quantum dynamics</title>
-      <link>/publication/quantum_correlation/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/quantum_correlation/</guid>
+      <link>/publication/postler-2018-experimental/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2018-experimental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiling quantum algorithms for architectures with multi-qubit gates</title>
-      <link>/publication/compiler/</link>
+      <link>/publication/rid-0611170133785-3/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/compiler/</guid>
+      <guid>/publication/rid-0611170133785-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/rid-0611170133796-4/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133796-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/rid-0611170133797-6/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133797-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can different quantum state vectors correspond to the same physical state? An experimental test</title>
+      <link>/publication/rid-0611170133798-7/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133798-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantum information processor with trapped ions</title>
+      <link>/publication/rid-0611170133802-12/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of genuine multipartite entanglement with device-independent witnesses</title>
+      <link>/publication/rid-0611170133804-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133804-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Characterization of Quantum Dynamics Through Many-Body Interactions</title>
+      <link>/publication/rid-0611170133804-18/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133804-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undoing a Quantum Measurement</title>
+      <link>/publication/rid-0611170133806-17/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133806-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14-Qubit Entanglement: Creation and Coherence</title>
+      <link>/publication/rid-0611170133807-23/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133807-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An open-system quantum simulator with trapped ions</title>
+      <link>/publication/rid-0611170133808-24/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Repetitive Quantum Error Correction</title>
+      <link>/publication/rid-0611170133808-22/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental repetitive quantum error correction with trapped ions</title>
+      <link>/publication/rid-0611170133809-25/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-25/</guid>
       <description></description>
     </item>
     

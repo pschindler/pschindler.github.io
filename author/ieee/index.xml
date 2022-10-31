@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> IEEE | Philipp Schindler</title>
+    <link>/author/ieee/</link>
+      <atom:link href="/author/ieee/index.xml" rel="self" type="application/rss+xml" />
+    <description> IEEE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title> IEEE</title>
+      <link>/author/ieee/</link>
+    </image>
+    
+    <item>
+      <title>Experimental repetitive quantum error correction with trapped ions</title>
+      <link>/publication/rid-0611170133809-25/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum information with trapped ions</title>
+      <link>/publication/rid-0611170133811-30/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133811-30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

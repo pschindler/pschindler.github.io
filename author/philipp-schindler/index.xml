@@ -5,98 +5,298 @@
     <link>/author/philipp-schindler/</link>
       <atom:link href="/author/philipp-schindler/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Schindler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 09:07:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Philipp Schindler</title>
       <link>/author/philipp-schindler/</link>
     </image>
     
     <item>
-      <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
-      <link>/publication/tweezers/</link>
-      <pubDate>Mon, 08 Mar 2021 09:07:00 +0100</pubDate>
-      <guid>/publication/tweezers/</guid>
+      <title>Experimental Single-Setting Quantum State Tomography</title>
+      <link>/publication/stricker-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/stricker-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A universal qudit quantum processor with trapped ions</title>
+      <link>/publication/ringbauer-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ringbauer-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Bayesian Calibration of Trapped-Ion Entangling Operations</title>
+      <link>/publication/gerster-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/gerster-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of fault-tolerant universal quantum gate operations</title>
+      <link>/publication/postler-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical and experimental study of center-line miscalibrations in Mølmer-Sørensen gates</title>
+      <link>/publication/mart-nez-garc-a-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/mart-nez-garc-a-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal metrology with programmable quantum sensors</title>
+      <link>/publication/marciniak-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/marciniak-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rf-induced heating dynamics of noncrystallized trapped ions</title>
+      <link>/publication/van-mourik-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/van-mourik-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxation times do not capture logical qubit dynamics</title>
+      <link>/publication/pal-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pal-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heating of a Trapped Ion Induced by Dielectric Materials</title>
+      <link>/publication/teller-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/teller-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entangling logical qubits with lattice surgery</title>
-      <link>/publication/lattice_surgery/</link>
-      <pubDate>Mon, 08 Mar 2021 08:42:51 +0100</pubDate>
-      <guid>/publication/lattice_surgery/</guid>
+      <link>/publication/erhard-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
+      <link>/publication/olsacher-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/olsacher-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental deterministic correction of qubit loss</title>
-      <link>/publication/qubit_loss/</link>
-      <pubDate>Wed, 30 Sep 2020 10:02:35 +0200</pubDate>
-      <guid>/publication/qubit_loss/</guid>
+      <link>/publication/stricker-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/stricker-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coherent rotations of qubits within a multi-species ion-trap quantum computer</title>
-      <link>/publication/coherent_rotations/</link>
-      <pubDate>Sun, 23 Aug 2020 13:33:49 +0200</pubDate>
-      <guid>/publication/coherent_rotations/</guid>
+      <title>Coherent rotations of qubits within a surface ion-trap quantum computer</title>
+      <link>/publication/van-mourik-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/van-mourik-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing large-scale quantum computers via cycle benchmarking</title>
-      <link>/publication/cycle_benchmarking/</link>
-      <pubDate>Mon, 03 Aug 2020 20:39:18 +0200</pubDate>
-      <guid>/publication/cycle_benchmarking/</guid>
+      <link>/publication/erhard-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Engineering vibrationally-assisted energy transfer in a trapped-ion quantum simulator</title>
-      <link>/publication/engineering/</link>
-      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/engineering/</guid>
+      <title>Ultrafast infrared spectroscopy with single molecular ions</title>
+      <link>/publication/philipp-schindler-61807987/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/philipp-schindler-61807987/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental quantification of spatial correlations in quantum dynamics</title>
-      <link>/publication/quantum_correlation/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/quantum_correlation/</guid>
+      <link>/publication/postler-2018-experimental/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/postler-2018-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering Vibrationally Assisted Energy Transfer in a Trapped-Ion Quantum Simulator</title>
+      <link>/publication/rid-091818065431-143/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-091818065431-143/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Micromotion-enabled improvement of quantum logic gates with trapped ions</title>
-      <link>/publication/micromotion/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/micromotion/</guid>
+      <link>/publication/10-1088-1367-2630-aa-86-eb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1088-1367-2630-aa-86-eb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
-      <link>/publication/wilson_theory/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson_theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryogenic resonator design for trapped ion experiments in Paul traps</title>
-      <link>/publication/resonator/</link>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/resonator/</guid>
+      <link>/publication/10-1088-1367-2630-aa-89-ab/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1088-1367-2630-aa-89-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiling quantum algorithms for architectures with multi-qubit gates</title>
-      <link>/publication/compiler/</link>
+      <link>/publication/rid-0611170133785-3/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/compiler/</guid>
+      <guid>/publication/rid-0611170133785-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/rid-0611170133796-4/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133796-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/rid-0611170133797-6/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133797-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can different quantum state vectors correspond to the same physical state? An experimental test</title>
+      <link>/publication/rid-0611170133798-7/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133798-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization of electric-field noise near metallic surfaces</title>
+      <link>/publication/rid-0611170133799-8/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133799-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-mode coupling in a single-ion oscillator via parametric resonance</title>
+      <link>/publication/rid-0611170133801-11/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133801-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantum information processor with trapped ions</title>
+      <link>/publication/rid-0611170133802-12/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certifying Systematic Errors in Quantum Experiments</title>
+      <link>/publication/rid-0611170133803-15/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133803-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of genuine multipartite entanglement with device-independent witnesses</title>
+      <link>/publication/rid-0611170133804-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133804-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Characterization of Quantum Dynamics Through Many-Body Interactions</title>
+      <link>/publication/rid-0611170133804-18/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133804-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undoing a Quantum Measurement</title>
+      <link>/publication/rid-0611170133806-17/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133806-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14-Qubit Entanglement: Creation and Coherence</title>
+      <link>/publication/rid-0611170133807-23/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133807-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An open-system quantum simulator with trapped ions</title>
+      <link>/publication/rid-0611170133808-24/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Repetitive Quantum Error Correction</title>
+      <link>/publication/rid-0611170133808-22/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental repetitive quantum error correction with trapped ions</title>
+      <link>/publication/rid-0611170133809-25/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133809-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental multiparticle entanglement dynamics induced by decoherence</title>
+      <link>/publication/rid-0611170133810-26/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133810-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum information with trapped ions</title>
+      <link>/publication/rid-0611170133811-30/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133811-30/</guid>
       <description></description>
     </item>
     

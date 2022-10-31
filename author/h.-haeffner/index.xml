@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Haeffner | Philipp Schindler</title>
+    <link>/author/h.-haeffner/</link>
+      <atom:link href="/author/h.-haeffner/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Haeffner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>H. Haeffner</title>
+      <link>/author/h.-haeffner/</link>
+    </image>
+    
+    <item>
+      <title>Realization of Universal Ion-Trap Quantum Computation with Decoherence-Free Qubits</title>
+      <link>/publication/rid-0611170133812-28/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133812-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process tomography of ion trap quantum gates</title>
+      <link>/publication/rid-0611170133813-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133813-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

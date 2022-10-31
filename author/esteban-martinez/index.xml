@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> Esteban Martinez | Philipp Schindler</title>
+    <title>Esteban Martinez | Philipp Schindler</title>
     <link>/author/esteban-martinez/</link>
       <atom:link href="/author/esteban-martinez/index.xml" rel="self" type="application/rss+xml" />
-    <description> Esteban Martinez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <description>Esteban Martinez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
-      <title> Esteban Martinez</title>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Esteban Martinez</title>
       <link>/author/esteban-martinez/</link>
     </image>
     
     <item>
-      <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
-      <link>/publication/wilson_theory/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson_theory/</guid>
+      <title>A quantum information processor with trapped ions</title>
+      <link>/publication/rid-0611170133802-12/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-12/</guid>
       <description></description>
     </item>
     

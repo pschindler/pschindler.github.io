@@ -5,26 +5,50 @@
     <link>/author/peter-zoller/</link>
       <atom:link href="/author/peter-zoller/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Zoller</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 09:07:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Peter Zoller</title>
       <link>/author/peter-zoller/</link>
     </image>
     
     <item>
+      <title>Optimal metrology with programmable quantum sensors</title>
+      <link>/publication/marciniak-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/marciniak-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scalable and Parallel Tweezer Gates for Quantum Computing with Long Ion Strings</title>
-      <link>/publication/tweezers/</link>
-      <pubDate>Mon, 08 Mar 2021 09:07:00 +0100</pubDate>
-      <guid>/publication/tweezers/</guid>
+      <link>/publication/olsacher-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/olsacher-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
-      <link>/publication/wilson_theory/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wilson_theory/</guid>
+      <link>/publication/10-1088-1367-2630-aa-89-ab/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1088-1367-2630-aa-89-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/rid-0611170133796-4/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133796-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An open-system quantum simulator with trapped ions</title>
+      <link>/publication/rid-0611170133808-24/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133808-24/</guid>
       <description></description>
     </item>
     

@@ -5,18 +5,34 @@
     <link>/author/matthias-f.-brandl/</link>
       <atom:link href="/author/matthias-f.-brandl/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthias F. Brandl</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Matthias F. Brandl</title>
       <link>/author/matthias-f.-brandl/</link>
     </image>
     
     <item>
-      <title>Cryogenic resonator design for trapped ion experiments in Paul traps</title>
-      <link>/publication/resonator/</link>
-      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/resonator/</guid>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/rid-0611170133797-6/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133797-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantum information processor with trapped ions</title>
+      <link>/publication/rid-0611170133802-12/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133802-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undoing a Quantum Measurement</title>
+      <link>/publication/rid-0611170133806-17/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133806-17/</guid>
       <description></description>
     </item>
     

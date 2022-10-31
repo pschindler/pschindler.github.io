@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Stadler | Philipp Schindler</title>
+    <link>/author/martin-stadler/</link>
+      <atom:link href="/author/martin-stadler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Stadler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Martin Stadler</title>
+      <link>/author/martin-stadler/</link>
+    </image>
+    
+    <item>
+      <title>Entangling logical qubits with lattice surgery</title>
+      <link>/publication/erhard-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,26 +5,74 @@
     <link>/author/esteban-a.-martinez/</link>
       <atom:link href="/author/esteban-a.-martinez/index.xml" rel="self" type="application/rss+xml" />
     <description>Esteban A. Martinez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 13:33:49 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
       <title>Esteban A. Martinez</title>
       <link>/author/esteban-a.-martinez/</link>
     </image>
     
     <item>
-      <title>Coherent rotations of qubits within a multi-species ion-trap quantum computer</title>
-      <link>/publication/coherent_rotations/</link>
-      <pubDate>Sun, 23 Aug 2020 13:33:49 +0200</pubDate>
-      <guid>/publication/coherent_rotations/</guid>
+      <title>Coherent rotations of qubits within a surface ion-trap quantum computer</title>
+      <link>/publication/van-mourik-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/van-mourik-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing large-scale quantum computers via cycle benchmarking</title>
+      <link>/publication/erhard-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/erhard-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U(1) Wilson lattice gauge theories in digital quantum simulators</title>
+      <link>/publication/10-1088-1367-2630-aa-89-ab/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1088-1367-2630-aa-89-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiling quantum algorithms for architectures with multi-qubit gates</title>
-      <link>/publication/compiler/</link>
+      <link>/publication/rid-0611170133785-3/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/compiler/</guid>
+      <guid>/publication/rid-0611170133785-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time dynamics of lattice gauge theories with a few-qubit quantum computer</title>
+      <link>/publication/rid-0611170133796-4/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133796-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of a scalable Shor algorithm</title>
+      <link>/publication/rid-0611170133797-6/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133797-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can different quantum state vectors correspond to the same physical state? An experimental test</title>
+      <link>/publication/rid-0611170133798-7/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133798-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undoing a Quantum Measurement</title>
+      <link>/publication/rid-0611170133806-17/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133806-17/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan J. Gorman | Philipp Schindler</title>
+    <link>/author/dylan-j.-gorman/</link>
+      <atom:link href="/author/dylan-j.-gorman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan J. Gorman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3144fa630b07a407d03d14477b39a0ca_71051_512x512_fill_lanczos_center_3.png</url>
+      <title>Dylan J. Gorman</title>
+      <link>/author/dylan-j.-gorman/</link>
+    </image>
+    
+    <item>
+      <title>Engineering Vibrationally Assisted Energy Transfer in a Trapped-Ion Quantum Simulator</title>
+      <link>/publication/rid-091818065431-143/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-091818065431-143/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization of electric-field noise near metallic surfaces</title>
+      <link>/publication/rid-0611170133799-8/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133799-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-mode coupling in a single-ion oscillator via parametric resonance</title>
+      <link>/publication/rid-0611170133801-11/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rid-0611170133801-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
